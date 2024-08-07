@@ -3,7 +3,7 @@ public class variables {
 
   public static void main(String[] args) {
 
-    int myNumber = 12;
+    // int myNumber = 12;
 
     int yourNumber;
     yourNumber = 122;
