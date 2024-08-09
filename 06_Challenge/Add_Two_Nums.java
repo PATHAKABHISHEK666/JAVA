@@ -14,5 +14,7 @@ public class Add_Two_Nums {
 
     System.out.print("The Sum Of " + number1 + " and " + number2 + " = " + sum);
     // System.out.print(sum);
+
+    input.close();
   }
 }
