@@ -1,7 +1,7 @@
 
 Answer in TRUE/FALSE
 
-1. Computers understand high level        languages like java,C. ---> FALSE
+1. Computers understand high level languages like java,C. ---> FALSE
 
 2. An Algorithm is a set of instructions to accomplish a task. ---> TRUE
 
