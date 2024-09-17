@@ -19,16 +19,15 @@ public class digitsum {
   }
 
   public static void sumofDigit(int num) {
+    int sum = 0;
+    int number = num;
+    while (num != 0) {
 
-    int product = 1;
+      sum += num % 10;
 
-    while (num >= 1) {
-
-      product *= num;
-
-      num--;
+      num /= 10;
     }
-
-    System.out.println("The Factorial Of Number is : " + product);
+    System.out.println("The sum of digits of Number " + number + " is " + sum);
   }
+
 }
